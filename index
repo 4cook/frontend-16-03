@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <title>Página Inicial Aula Front-End</title>
+        <link rel="stylesheet" href="estilo.css"/>  
+    </head>
+    <body>
+     
+            <nav>
+              
+
+                <a href="index.html">Inicio</a>
+                <a href="sobre.html">Sobre</a>
+                
+                
+
+            </nav>
+
+        
+          <h1>Bem vindos a aula de HTML e CSS.</h1>
+          <h2>Aprendendo as principais tags</h2>
+          <h3>Exemplo de subtítulo menor</h3>
+
+           <p>O HTML é usado para estruturar o conteúdo de uma página.<br>
+            Já o CSS é usado para definir o estilo visual</p>        
+    </body>
+</html> 
